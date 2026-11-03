@@ -142,7 +142,7 @@ Upload to GitHub Pages for free hosting.
 
         <h2>CONTACT ME</h2>
 
-        <p>Email: Enter your email address</p>
+        <p>Email: mpriyar18@gamil.com</p>
 
         <p>
             <a href="https://www.linkedin.com/in/mohana-priya-ravi-56395532a/">
@@ -234,7 +234,9 @@ Upload to GitHub Pages for free hosting.
 
 
 ## OUTPUT
+![alt text](img.png)
 
+![alt text](img2.png)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
